@@ -1,66 +1,43 @@
 <div align="center">
 
 <h1>Vedant Deshmukh</h1>
-<p><strong>Python Developer</strong></p>
+<h3>Data Science Enthusiast | Python Developer</h3>
 
 <p>
-Focused on writing clean, efficient and maintainable Python code.
-Interested in backend development and real-world problem solving.
+Focused on extracting insights from data using Python.
+Interested in data analysis, visualization, and machine learning.
 </p>
 
 </div>
 
 <hr>
 
-<h2>Skills</h2>
+<h2>Core Skills</h2>
 
 <ul>
-<li>Python Programming</li>
-<li>Object-Oriented Programming</li>
-<li>Data Structures & Algorithms</li>
-<li>File Handling (CSV, JSON)</li>
+<li>Python (Advanced)</li>
+<li>Pandas & NumPy</li>
+<li>Matplotlib & Seaborn</li>
+<li>Data Cleaning & Preprocessing</li>
+<li>Exploratory Data Analysis (EDA)</li>
+<li>Basic Machine Learning (Scikit-Learn)</li>
 <li>Git & GitHub</li>
-<li>Basic Backend Development</li>
-</ul>
-
-<hr>
-
-<h2>Projects</h2>
-
-<h3>Gym Progress Tracker</h3>
-<p>
-A Python application that tracks workout progress and visualizes strength improvements using data analysis.
-</p>
-<ul>
-<li>CSV data storage</li>
-<li>Matplotlib visualizations</li>
-<li>Modular project structure</li>
-</ul>
-
-<br>
-
-<h3>Task Manager CLI</h3>
-<p>
-Command-line productivity tool built using Python to manage daily tasks efficiently.
-</p>
-<ul>
-<li>Argparse for CLI handling</li>
-<li>JSON-based storage</li>
-<li>Clean architecture</li>
 </ul>
 
 <hr>
 
 <h2>Currently Learning</h2>
-
 <ul>
-<li>Flask for Backend Development</li>
-<li>API Design</li>
-<li>Writing Unit Tests</li>
+<li>Advanced Machine Learning</li>
+<li>Feature Engineering Techniques</li>
+<li>Statistics for Data Science</li>
+<li>SQL for Data Analysis</li>
 </ul>
 
 <hr>
 
-<p align="center">
-<a href="https://github.com/your-username">Visit My GitHub Profile</a>
+<div align="center">
+<p>
+Open to collaborating on Data Science and Machine Learning projects.
 </p>
+</div>
